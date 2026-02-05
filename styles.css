@@ -10,6 +10,13 @@ h1 {
   text-shadow: 3px 0 #DA0463;
 
 }
+p{
+  margin-top: -50px;
+  margin-bottom: 30px;
+  font-size: 1.2rem;
+  color: #B8C1EC;
+  letter-spacing: 1px;
+}
 
 footer {
   color: #DBEDF3;
